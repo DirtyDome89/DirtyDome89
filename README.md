@@ -13,3 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Skill Matrix App
+This repository contains a minimal Flask application that displays a skill matrix.
+
+### Setup
+1. Install dependencies:
+   ```bash
+   pip install -r skillmatrix_app/requirements.txt
+   ```
+2. Run the application:
+   ```bash
+   python skillmatrix_app/app.py
+   ```
+3. Open a browser at `http://localhost:5000` to view the matrix.
